@@ -1,5 +1,5 @@
-# kata-a-day
+# katas
 
-Doing a Kata everyday.
+List of Kata I've done.
 Language depending on the day :)
-Mainly Js / Ts / Python
+Mainly Ts / Python
